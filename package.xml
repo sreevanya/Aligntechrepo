@@ -8,4 +8,9 @@
         <members>rectangle2</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Brand__c.num_of_pdts__c</members>
+        <members>Brand__c.size__c</members>
+        <name>CustomField</name>
+    </types>
 </Package>
